@@ -10,11 +10,20 @@
 ---
 ## 💻 Linguagens e Tecnologias
 <p align="center">
+  <b>Linguagens e Ferramentas:</b><br>
   <a href="https://skillicons.dev">
-    <code> <img src="https://skillicons.dev/icons?i=,git,github,mysql,postgres,matlab,python,sklearn,"/> </code>
-    </a>
+    <img src="https://skillicons.dev/icons?i=python,matlab,sklearn,git,github" />
+  </a>
 </p>
 
+<p align="center">
+  <b>Dados e BI:</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres" valign="middle" />
+  </a>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" valign="middle" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" valign="middle" />
+</p>
 ---
 
  
