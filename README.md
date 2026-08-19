@@ -6,7 +6,7 @@
   reduzir gargalos e gerar valor operacional. Tenho perfil analítico, organizado e orientado a resultados,
   sempre buscando conectar dados a oportunidades reais de negócio.
 
-- 👨‍🎓 Me formei em Data Analytics e Big data .
+- 👨‍🎓 Superior de Tecnologia em Banco de Dados e Armazenamento de Big Data, Data Analytics and Big Data.
 ---
 ## 💻 Linguagens e Tecnologias
 <p align="center">
@@ -23,6 +23,20 @@
   </a>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" valign="middle" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" valign="middle" />
+</p>
+
+<p align="center">
+  <b>Engenharia de Dados e Big Data:</b><br>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" valign="middle" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" valign="middle" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" valign="middle" />
+</p>
+
+<p align="center">
+  <b>Nuvem (Cloud):</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
+  </a>
 </p>
 ---
 
